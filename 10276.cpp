@@ -21,7 +21,7 @@ lop(i,n){
 
 }
 
-//receive Solution 
+//recursive Solution 
 int main(){
 	//freopen("in.txt","r",stdin);
 int tc;
